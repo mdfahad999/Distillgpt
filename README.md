@@ -1,3 +1,3 @@
 # Distillgpt_MedLM
 
-## Training gpt2 on Diseases_Symptoms
+## Training gpt2 on Diseases_Symptoms Dataset
